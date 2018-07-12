@@ -1,7 +1,7 @@
 #!/bin/bash
 test1=C1
 test2=C2
-echo "Which system do you want to ssh into?"
+echo "Which System Do You Want To SSH Into?"
 echo "Options: C1, C2"
 read system_name
 if [ $system_name == $test1 ];then
